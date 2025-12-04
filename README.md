@@ -1,95 +1,118 @@
-<!-- Animated Header -->
+<!-- JARVIS HUD Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=900&lines=Hi+I'm+Deepak+S;ML%2FDL+Enthusiast;Full+Stack+Developer;Creative+Graphic+Designer;UI%2FUX+Designer;Welcome+to+My+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=35&center=true&vCenter=true&width=900&lines=INITIALIZING+JARVIS+PROFILE...;Hi+I'm+Deepak+S;ML%2FDL+Developer;Full+Stack+Developer;Graphic+Designer+%7C+UI%2FUX+Architect;Welcome+to+My+Tech+Universe!">
 </h1>
 
----
-
-## 🚀 About Me  
-- 🤖 **ML/DL Enthusiast** working on data-driven projects  
-- 💻 **Full Stack Developer** (Frontend + Backend + Database)  
-- ⚙️ Backend Experience in **Node.js & Python**  
-- 🗄️ Database skills: **MongoDB, MySQL**  
-- 🎨 Creative **Graphic Designer** and **UI/UX Specialist**  
-- 🧠 Completed **UI/UX Course (NoviTech)**  
-- 📊 ICT **Power BI Certified**  
-- 🤝 Strong **team management & communication**  
-
----
-
-## 🛠️ Skills & Tools  
+<!-- JARVIS 3D Circle Animation -->
 <div align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="220" />
+</div>
 
-### 🤖 **Machine Learning & Deep Learning**
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="65">
+---
 
-### 💻 **Full Stack Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="65">
+<!-- Section Divider (JARVIS-style) -->
+<p align="center">
+  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+</p>
+
+## 🧠 JARVIS SYSTEM OVERVIEW  
+- 🤖 **Machine Learning / Deep Learning Developer**  
+- 🛰️ **Full Stack Developer (Frontend + Backend + DB)**  
+- 🛠️ Backend: **Node.js | Python**  
+- 🗄 Databases: **MongoDB | MySQL**  
+- 🎨 Creative: **UI/UX Designer | Graphic Designer**  
+- ⚡ Loves futuristic tech, automation & AI systems  
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+</p>
+
+## ⚙️ TECH STACK – 3D JARVIS HUD  
+
+### 🚀 **Core Superpowers**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="80">
+</div>
+
+### 🛰️ **Full Stack Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="80">
+</div>
 
 ### 🗄️ **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="65">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="80">
+</div>
 
-### 🎨 **Design Tools**
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,canva" height="65">
-
-### 🧰 **Other Tools**
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git" height="65">
-
+### 🎨 **Design & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva,vscode,androidstudio,git" height="80">
 </div>
 
 ---
 
-## 🧑‍💼 Leadership & Activities
-- 👨‍🎓 Student Representative – bridging communication between students & teachers  
-- 🤝 Volunteer Opportunity Connector (Jan 2024 – Mar 2024)  
-- 🎓 Completed certifications in **UI/UX, Power BI, Prototyping**  
+<p align="center">
+  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+</p>
+
+## 🛰️ JARVIS 3D Radar Scanner  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/loonywizard/loonywizard/output/github-contribution-grid-snake.svg" width="900">
+</div>
 
 ---
 
-## 🧪 Projects
+<p align="center">
+  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+</p>
 
-### 🔹 **Volunteer Opportunity Connector (Website)**  
-A platform for students to find volunteer & internship opportunities.  
-**Role:** UI/UX + Frontend Developer  
+## 🔥 PROJECT DEPLOYMENT LOG
+
+### 🔹 **Volunteer Opportunity Connector**  
+A platform connecting learners with real-world volunteer/internship opportunities.  
+**Role:** UI/UX Designer + Frontend Developer  
 
 ---
 
-### 🔹 **Carbon Footprint Tracker System – IoT (In Progress)**  
-A system that detects carbon emissions, stores data, and suggests environmental improvements.  
+### 🔹 **Carbon Footprint Tracker – IoT + DB**  
+Sensor-based system detecting emission levels & storing data in a database.
 
 ---
 
-## 📊 GitHub Stats (Animated)
+<p align="center">
+  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+</p>
+
+## 🧬 GITHUB SYSTEM METRICS (Neon HUD)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepaksathiyamoorthy&show_icons=true&theme=tokyonight" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=deepaksathiyamoorthy&show_icons=true&theme=react&title_color=00eaff&icon_color=00eaff&text_color=FFFFFF&bg_color=000000" height="170">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksathiyamoorthy&theme=tokyonight" height="180">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksathiyamoorthy&theme=react&ring=00eaff&fire=00eaff&currStreakLabel=00eaff&background=000000" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksathiyamoorthy&layout=compact&theme=tokyonight" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksathiyamoorthy&layout=compact&theme=react&title_color=00eaff&text_color=FFFFFF&bg_color=000000" height="170">
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+</p>
+
+## 🌐 Portfolio Access  
+🔗 **https://deepak-portfolio3.vercel.app/**  
 
 ---
 
-## 🌐 Portfolio  
-👉 **https://deepak-portfolio3.vercel.app/**
+## 📞 Contact System  
+- 📍 Location: Erode, Tamil Nadu, India  
+- 📱 Mobile: **8754182671**  
+- 📧 Email: **deepakap105@gmail.com**
 
 ---
 
-## 📞 Contact  
-- 📍 Erode, Tamil Nadu, India  
-- 📱 **8754182671**  
-- 📧 **deepakap105@gmail.com**
-
----
-
-<h3 align="center">⭐ If you like my work, don't forget to star my repositories!</h3>
+<h2 align="center">✨ SYSTEM NOTE: Please ⭐ star this repo if you like the JARVIS theme!</h2>
