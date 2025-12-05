@@ -1,118 +1,126 @@
-<!-- JARVIS HUD Animated Header -->
+<!-- 💠 JARVIS HOLOGRAM INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=35&center=true&vCenter=true&width=900&lines=INITIALIZING+JARVIS+PROFILE...;Hi+I'm+Deepak+S;ML%2FDL+Developer;Full+Stack+Developer;Graphic+Designer+%7C+UI%2FUX+Architect;Welcome+to+My+Tech+Universe!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F3FF&size=38&center=true&vCenter=true&width=900&height=70&lines=BOOTING+JARVIS+SYSTEM...;IDENTITY+CONFIRMED:+DEEPAK+S;ML%2FDL+Engineer+%7C+Full+Stack+Developer;UI%2FUX+Architect+%7C+Graphic+Designer;WELCOME+TO+MY+FUTURISTIC+GITHUB+PROFILE">
 </h1>
 
-<!-- JARVIS 3D Circle Animation -->
+<!-- 3D HOLOGRAM GIF -->
 <div align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="220" />
+  <img src="https://i.pinimg.com/originals/2e/3d/2c/2e3d2c8ffd7f3f444ec2f6f36d4e7c79.gif" height="260" />
 </div>
 
 ---
 
-<!-- Section Divider (JARVIS-style) -->
+<!-- HUD DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
 </p>
 
-## 🧠 JARVIS SYSTEM OVERVIEW  
-- 🤖 **Machine Learning / Deep Learning Developer**  
-- 🛰️ **Full Stack Developer (Frontend + Backend + DB)**  
-- 🛠️ Backend: **Node.js | Python**  
+## 🧠 **JARVIS SYSTEM OVERVIEW**  
+- 🤖 **Machine Learning / Deep Learning Engineer**  
+- 💻 **Full Stack Developer (Frontend + Backend + DB)**  
+- 🛠 Backend: **Node.js | Python**  
 - 🗄 Databases: **MongoDB | MySQL**  
-- 🎨 Creative: **UI/UX Designer | Graphic Designer**  
-- ⚡ Loves futuristic tech, automation & AI systems  
+- 🎨 **UI/UX Designer + Graphic Designer**  
+- ⚡ Passion for **AI, futuristic tech, automation, and 3D design**  
 
 ---
 
+<!-- HUD DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
 </p>
 
-## ⚙️ TECH STACK – 3D JARVIS HUD  
+## ⚙️ **TECH STACK – 3D JARVIS HUD**
 
-### 🚀 **Core Superpowers**
+### 🚀 **Core Intelligence Modules (ML/DL)**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="80">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="85">
+  <br>
+  <img src="https://i.imgur.com/Z9A4Sx5.gif" height="50"/>
 </div>
 
-### 🛰️ **Full Stack Development**
+### 🛰 **Full Stack Deployment Unit**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="80">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="85">
 </div>
 
-### 🗄️ **Databases**
+### 🗄 **Database Engines**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="80">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="85">
 </div>
 
-### 🎨 **Design & Tools**
+### 🎨 **Design & Development Toolkit**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva,vscode,androidstudio,git" height="80">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva,vscode,androidstudio,git" height="85">
 </div>
 
 ---
 
+<!-- FUTURISTIC DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
 </p>
 
-## 🛰️ JARVIS 3D Radar Scanner  
+## 🛰 **JARVIS LIVE RADAR SYSTEM**
 <div align="center">
   <img src="https://raw.githubusercontent.com/loonywizard/loonywizard/output/github-contribution-grid-snake.svg" width="900">
 </div>
 
 ---
 
+<!-- FUTURISTIC DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
 </p>
 
-## 🔥 PROJECT DEPLOYMENT LOG
+## 🔥 **MISSION LOG – ACTIVE PROJECTS**
 
-### 🔹 **Volunteer Opportunity Connector**  
-A platform connecting learners with real-world volunteer/internship opportunities.  
-**Role:** UI/UX Designer + Frontend Developer  
+### 🔹 **Volunteer Opportunity Connector (Web App)**  
+📌 Helps students find internships & volunteer tasks.  
+🎨 **Role:** UI/UX + Frontend Developer  
 
 ---
 
-### 🔹 **Carbon Footprint Tracker – IoT + DB**  
-Sensor-based system detecting emission levels & storing data in a database.
+### 🔹 **Carbon Footprint Tracker – IoT + Database**  
+📌 Sensor-based carbon emission tracking + DB Storage  
+⚙️ **Tech:** IoT Sensors, DB, Analytics  
 
 ---
 
+<!-- FUTURISTIC DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
 </p>
 
-## 🧬 GITHUB SYSTEM METRICS (Neon HUD)
+## 🧬 **GITHUB ANALYTICS – JARVIS NEON HUD**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepaksathiyamoorthy&show_icons=true&theme=react&title_color=00eaff&icon_color=00eaff&text_color=FFFFFF&bg_color=000000" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=deepaksathiyamoorthy&show_icons=true&theme=react&title_color=00eaff&icon_color=00eaff&text_color=FFFFFF&bg_color=000000" height="175">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksathiyamoorthy&theme=react&ring=00eaff&fire=00eaff&currStreakLabel=00eaff&background=000000" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksathiyamoorthy&theme=react&ring=00eaff&fire=00eaff&currStreakLabel=00eaff&background=000000" height="175">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksathiyamoorthy&layout=compact&theme=react&title_color=00eaff&text_color=FFFFFF&bg_color=000000" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksathiyamoorthy&layout=compact&theme=react&title_color=00eaff&text_color=FFFFFF&bg_color=000000" height="175">
 
 </div>
 
 ---
 
+<!-- FUTURISTIC DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/zYF7k7U.gif" height="45">
+  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
 </p>
 
-## 🌐 Portfolio Access  
-🔗 **https://deepak-portfolio3.vercel.app/**  
+## 🌐 **PORTFOLIO ACCESS**  
+🚀 **https://deepak-portfolio3.vercel.app/**  
 
 ---
 
-## 📞 Contact System  
-- 📍 Location: Erode, Tamil Nadu, India  
+## 📞 **CONTACT SYSTEM (ENCRYPTED)**  
+- 📍 Location: **Erode, Tamil Nadu, India**  
 - 📱 Mobile: **8754182671**  
-- 📧 Email: **deepakap105@gmail.com**
+- 📧 Email: **deepakap105@gmail.com**  
 
 ---
 
-<h2 align="center">✨ SYSTEM NOTE: Please ⭐ star this repo if you like the JARVIS theme!</h2>
+<h2 align="center">✨ JARVIS NOTE: Activate a ⭐ STAR to enhance system performance</h2>
