@@ -1,126 +1,116 @@
-<!-- 💠 JARVIS HOLOGRAM INTRO -->
+<!-- 🚀 DEEPAK THEME – CUSTOM FUTURISTIC BRANDING -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F3FF&size=38&center=true&vCenter=true&width=900&height=70&lines=BOOTING+JARVIS+SYSTEM...;IDENTITY+CONFIRMED:+DEEPAK+S;ML%2FDL+Engineer+%7C+Full+Stack+Developer;UI%2FUX+Architect+%7C+Graphic+Designer;WELCOME+TO+MY+FUTURISTIC+GITHUB+PROFILE">
+  <img src="https://readme-typing-svg.herokuapp.com?color=33F3FF&size=38&center=true&vCenter=true&width=900&height=70&lines=DEEPAK+SYSTEM+BOOTING...;Welcome+to+Deepak's+Tech+Universe;ML%2FDL+Developer+%7C+Full+Stack+Engineer;UI%2FUX+Designer+%7C+Creative+Thinker;Building+Future+With+Code+%26+Design" />
 </h1>
 
-<!-- 3D HOLOGRAM GIF -->
+<!-- Custom Deepak Hologram Animation -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2e/3d/2c/2e3d2c8ffd7f3f444ec2f6f36d4e7c79.gif" height="260" />
+  <img src="https://i.gifer.com/origin/91/9178767cf7c5b5c4f705202a6d9f4aa3_w200.gif" height="260">
 </div>
 
 ---
 
-<!-- HUD DIVIDER -->
+<!-- DEEPAK THEME DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
+  <img src="https://i.gifer.com/7sc9.gif" height="40">
 </p>
 
-## 🧠 **JARVIS SYSTEM OVERVIEW**  
-- 🤖 **Machine Learning / Deep Learning Engineer**  
-- 💻 **Full Stack Developer (Frontend + Backend + DB)**  
-- 🛠 Backend: **Node.js | Python**  
-- 🗄 Databases: **MongoDB | MySQL**  
-- 🎨 **UI/UX Designer + Graphic Designer**  
-- ⚡ Passion for **AI, futuristic tech, automation, and 3D design**  
+## 💠 **DEEPAK — PROFILE OVERVIEW**
+- 🤖 **ML/DL Developer**  
+- 🧠 **Full Stack Developer (MERN + Python + Node.js)**  
+- 🎨 **UI/UX Specialist & Graphic Designer**  
+- 🗄 **Database Professional — MongoDB & MySQL**  
+- ✨ Specializes in creating **clean, futuristic interfaces**  
+- ⚡ Passionate about **AI, automation, 3D visuals, and creative tech**  
 
 ---
 
-<!-- HUD DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
+  <img src="https://i.gifer.com/7sc9.gif" height="40">
 </p>
 
-## ⚙️ **TECH STACK – 3D JARVIS HUD**
+# 🔷 **DEEPAK'S TECH ARSENAL**
 
-### 🚀 **Core Intelligence Modules (ML/DL)**
+## 🚀 **Core Skills (ML / DL)**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="85">
-  <br>
-  <img src="https://i.imgur.com/Z9A4Sx5.gif" height="50"/>
 </div>
 
-### 🛰 **Full Stack Deployment Unit**
+## 💻 **Full Stack (Frontend + Backend)**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="85">
 </div>
 
-### 🗄 **Database Engines**
+## 🗄 **Databases**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="85">
 </div>
 
-### 🎨 **Design & Development Toolkit**
+## 🎨 **Design + Tools**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva,vscode,androidstudio,git" height="85">
 </div>
 
 ---
 
-<!-- FUTURISTIC DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
+  <img src="https://i.gifer.com/7sc9.gif" height="40">
 </p>
 
-## 🛰 **JARVIS LIVE RADAR SYSTEM**
+# 🛰 **DEEPAK RADAR — LIVE CONTRIBUTION TRACKER**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/loonywizard/loonywizard/output/github-contribution-grid-snake.svg" width="900">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="900">
 </div>
 
 ---
 
-<!-- FUTURISTIC DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
+  <img src="https://i.gifer.com/7sc9.gif" height="40">
 </p>
 
-## 🔥 **MISSION LOG – ACTIVE PROJECTS**
+# 🔥 **PROJECTS BY DEEPAK**
 
-### 🔹 **Volunteer Opportunity Connector (Web App)**  
-📌 Helps students find internships & volunteer tasks.  
-🎨 **Role:** UI/UX + Frontend Developer  
+### 🔹 **Volunteer Opportunity Connector**  
+Helps students find internships & volunteer opportunities.  
+**Role:** UI/UX + Frontend Developer  
 
 ---
 
-### 🔹 **Carbon Footprint Tracker – IoT + Database**  
-📌 Sensor-based carbon emission tracking + DB Storage  
-⚙️ **Tech:** IoT Sensors, DB, Analytics  
+### 🔹 **Carbon Footprint Tracker (IoT + Database)**  
+Tracks pollution using sensors + stores environmental data.  
 
 ---
 
-<!-- FUTURISTIC DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
+  <img src="https://i.gifer.com/7sc9.gif" height="40">
 </p>
 
-## 🧬 **GITHUB ANALYTICS – JARVIS NEON HUD**
+# 🧬 **DEEPAK SYSTEM METRICS**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepaksathiyamoorthy&show_icons=true&theme=react&title_color=00eaff&icon_color=00eaff&text_color=FFFFFF&bg_color=000000" height="175">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksathiyamoorthy&theme=react&ring=00eaff&fire=00eaff&currStreakLabel=00eaff&background=000000" height="175">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksathiyamoorthy&layout=compact&theme=react&title_color=00eaff&text_color=FFFFFF&bg_color=000000" height="175">
+<img src="https://github-readme-stats.vercel.app/api?username=deepaksathiyamoorthy&show_icons=true&theme=tokyonight" height="175">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksathiyamoorthy&theme=tokyonight" height="175">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksathiyamoorthy&layout=compact&theme=tokyonight" height="175">
 
 </div>
 
 ---
 
-<!-- FUTURISTIC DIVIDER -->
 <p align="center">
-  <img src="https://i.imgur.com/EBT4yq5.gif" height="60">
+  <img src="https://i.gifer.com/7sc9.gif" height="40">
 </p>
 
-## 🌐 **PORTFOLIO ACCESS**  
-🚀 **https://deepak-portfolio3.vercel.app/**  
+# 🌐 **DEEPAK PORTFOLIO**  
+🔗 **https://deepak-portfolio3.vercel.app/**  
 
 ---
 
-## 📞 **CONTACT SYSTEM (ENCRYPTED)**  
-- 📍 Location: **Erode, Tamil Nadu, India**  
-- 📱 Mobile: **8754182671**  
-- 📧 Email: **deepakap105@gmail.com**  
+# 📞 **CONTACT**
+📍 Erode, Tamil Nadu  
+📱 8754182671  
+📧 deepakap105@gmail.com  
 
 ---
 
-<h2 align="center">✨ JARVIS NOTE: Activate a ⭐ STAR to enhance system performance</h2>
+<h2 align="center">🌟 If you like the DEEPAK THEME, give a ⭐ to support!</h2>
